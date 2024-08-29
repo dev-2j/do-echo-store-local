@@ -1,3 +1,0 @@
-# go-store-localx
-
- 
