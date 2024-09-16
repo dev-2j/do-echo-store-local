@@ -7,7 +7,6 @@ import (
 )
 
 func XAction(c echo.Context) error {
-	/// test
 	return c.JSON(http.StatusOK, echo.Map{"message": "Hello, World!"})
 
 }
